@@ -1,16 +1,16 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJlOGUwOHI1dzlnOWVtdGlyaWhvcWJlZDVtN2VucGp0djd1b25oaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dGDa7cgk6Z65YtJJmf/giphy.gif", width="800"/>
+</div>
 
-<!--
-**maestrying/maestrying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges", align="center">
+  <a href="https://t.me/divmee">
+    <img src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://vk.ru/your_rock_n_roll">
+    <img src="https://img.shields.io/badge/VKONTAKTE-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="counter", align="center">
+  <img src="https://komarev.com/ghpvc/?username=maestrying&style=flat-square&color=blue" alt=""/>
+</div>
