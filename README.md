@@ -14,3 +14,18 @@
 <div id="counter", align="center">
   <img src="https://komarev.com/ghpvc/?username=maestrying&style=flat-square&color=blue" alt=""/>
 </div>
+
+---
+### :man_technologist: About Me:
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: I study at the university.
+
+- :zap: In my free time, I study different stacks.
+
+- :art: I am also interested in graphic design.
+
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maestrying&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maestrying&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
